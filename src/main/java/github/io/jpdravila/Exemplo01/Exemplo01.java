@@ -1,4 +1,4 @@
-package github.io.jpdravila.exemplo01;
+package github.io.jpdravila.Exemplo01;
 
 interface Figura{
     void desenha();

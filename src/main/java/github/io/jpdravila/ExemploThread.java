@@ -15,5 +15,7 @@ public class ExemploThread {
     }
 }
 /*
-
+ ->Lambda expressions - Sintaxe Básica<-
+ ||| Sem argumentos: () -> System.out.println("Hello World");
+ ||| Um argumento: () -> System.out.println(s);
 */
