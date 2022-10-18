@@ -1,4 +1,4 @@
-package github.io.jpdravila;
+package github.io.jpdravila.LambdasExpretions;
 
 public class ExemploThread {
     public static void main(String[] args){
@@ -18,4 +18,5 @@ public class ExemploThread {
  ->Lambda expressions - Sintaxe Básica<-
  ||| Sem argumentos: () -> System.out.println("Hello World");
  ||| Um argumento: () -> System.out.println(s);
+ ||| Dois argumentos: (x, y) -> x + y;
 */

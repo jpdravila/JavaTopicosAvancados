@@ -1,4 +1,4 @@
-package github.io.jpdravila.Exemplo01;
+package github.io.jpdravila.LambdasExpretions.Exemplo01;
 
 interface Figura{
     void desenha();
@@ -17,5 +17,7 @@ public class Exemplo01 {
         Figura figDois = () -> System.out.println("Desenha figura dois!");
         figDois.desenha();
     }
+
+
 
 }
