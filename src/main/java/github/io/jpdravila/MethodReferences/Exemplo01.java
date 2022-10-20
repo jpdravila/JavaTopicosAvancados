@@ -5,7 +5,7 @@ interface Figura2D{
 }
 
 class Retangulo{
-    public void desenhaRetangulo(Double largura, Double altura){
+    public Retangulo(Double largura, Double altura){
         System.out.println("Desenha retângulo de Largura: " + largura + " e Altura: " + altura);
     }
 }
@@ -13,10 +13,9 @@ class Retangulo{
 public class Exemplo01 {
     public static void main(String[] args){
 
-        Retangulo ret = new Retangulo();
-        Figura2D fig2 = ret::desenhaRetangulo;
+        Figura2D fig1 = Retangulo::new;
 
-        fig2.desenha(10.5, 7.0);
+        fig1.desenha(10.0, 2.5);
 
     }
 }
