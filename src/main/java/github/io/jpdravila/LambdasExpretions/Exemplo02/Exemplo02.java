@@ -49,12 +49,10 @@ public class Exemplo02 {
 
         System.out.println("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
 
-        /*
         lista.sort((p1, p2) -> p1.getPreco().compareTo(p2.getPreco()));
         lista.forEach((p) -> System.out.println(p.getNome() + " = " + p.getPreco()));
-        */
 
-        lista.forEach(Impressora::imprime);
+        /*lista.forEach(Impressora::imprime);*/
 
     }
 
