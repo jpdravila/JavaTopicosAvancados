@@ -1,4 +1,4 @@
-package github.io.jpdravila.LambdasExpretions;
+package github.io.jpdravila.Java8.LambdasExpretions;
 
 public class ExemploThread {
     public static void main(String[] args){

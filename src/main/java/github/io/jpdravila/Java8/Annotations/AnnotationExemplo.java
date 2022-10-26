@@ -1,4 +1,4 @@
-package github.io.jpdravila.Annotations;
+package github.io.jpdravila.Java8.Annotations;
 
 import java.lang.annotation.Repeatable;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package github.io.jpdravila.Optional;
+package github.io.jpdravila.Java8.Optional;
 
 import java.util.ArrayList;
 import java.util.List;

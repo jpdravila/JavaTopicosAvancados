@@ -1,7 +1,6 @@
-package github.io.jpdravila.StringJoiner;
+package github.io.jpdravila.Java8.StringJoiner;
 
 import java.util.StringJoiner;
-import java.util.StringTokenizer;
 
 public class StringJoinerExemplo {
 

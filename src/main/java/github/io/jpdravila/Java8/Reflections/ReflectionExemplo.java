@@ -1,4 +1,4 @@
-package github.io.jpdravila.Reflections;
+package github.io.jpdravila.Java8.Reflections;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;

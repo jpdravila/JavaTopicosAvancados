@@ -1,4 +1,4 @@
-package github.io.jpdravila.LambdasExpretions.Exemplo02;
+package github.io.jpdravila.Java8.LambdasExpretions.Exemplo02;
 
 import java.util.ArrayList;
 import java.util.List;

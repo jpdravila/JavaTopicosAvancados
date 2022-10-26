@@ -1,4 +1,4 @@
-package github.io.jpdravila.TypeInterferences;
+package github.io.jpdravila.Java8.TypeInterferences;
 
 import java.util.ArrayList;
 import java.util.List;

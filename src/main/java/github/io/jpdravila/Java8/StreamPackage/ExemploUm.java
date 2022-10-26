@@ -1,4 +1,4 @@
-package github.io.jpdravila.StreamPackage;
+package github.io.jpdravila.Java8.StreamPackage;
 
 import java.util.*;
 

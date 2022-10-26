@@ -1,4 +1,4 @@
-package github.io.jpdravila.LambdasExpretions.Exemplo01;
+package github.io.jpdravila.Java8.LambdasExpretions.Exemplo01;
 
 interface Figura{
     void desenha();

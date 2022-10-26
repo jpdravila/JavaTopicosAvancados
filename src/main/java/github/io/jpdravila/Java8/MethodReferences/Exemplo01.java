@@ -1,4 +1,4 @@
-package github.io.jpdravila.MethodReferences;
+package github.io.jpdravila.Java8.MethodReferences;
 
 interface Figura2D{
     void desenha(Double largura, Double altura);

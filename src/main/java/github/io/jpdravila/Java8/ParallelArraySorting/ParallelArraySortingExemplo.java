@@ -1,4 +1,4 @@
-package github.io.jpdravila.ParallelArraySorting;
+package github.io.jpdravila.Java8.ParallelArraySorting;
 
 import java.util.Arrays;
 
