@@ -1,0 +1,6 @@
+Inferência do tipos em varíaveis locais
+
+-> Palavra reservada var(variável).
+-> Deve ser declarada como local e obrigatoriamente inicializada.
+-> O compilador que define o tipo dela.
+-> A mesma pode ser usado no Enhanced For Loop.
